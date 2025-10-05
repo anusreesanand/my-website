@@ -291,7 +291,7 @@ strong {
 
 .featured-number {
   color: var(--primary-color);
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin: 0 10px;
 }
 
@@ -907,5 +907,6 @@ strong {
   }
 
 }
+
 
 
